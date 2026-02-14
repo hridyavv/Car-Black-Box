@@ -1,0 +1,1 @@
+ external_eeprom.d  external_eeprom.p1:  external_eeprom.c i2c.h external_eeprom.h

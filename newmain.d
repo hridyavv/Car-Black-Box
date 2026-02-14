@@ -1,0 +1,1 @@
+ newmain.d  newmain.p1:  newmain.c ds1307.h clcd.h i2c.h external_eeprom.h matrix_keypad.h uart.h adc.h eeprom.h timer0.h

@@ -1,0 +1,1 @@
+ adc.d  adc.p1:  adc.c adc.h
